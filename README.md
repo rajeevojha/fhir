@@ -8,5 +8,5 @@
 - Segments (MSH, PID, OBX, etc.): These define parts of a message.
 - Fields & Delimiters: Data is separated by pipes (|), carets (^), and tildes (~).
 
-- ==MSH== → Message Header (who sent it, where it’s going)
-- ==PID== → Patient Identification (Name, DOB, Address, etc.)
+- MSH → Message Header (who sent it, where it’s going)
+- PID → Patient Identification (Name, DOB, Address, etc.)
